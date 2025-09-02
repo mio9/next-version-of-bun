@@ -1,15 +1,9 @@
-# test-bun
+# In the next version of Bun
 
-To install dependencies:
+## You can:
 
-```bash
-bun install
-```
+- Run Lua in your Bun scripts ✅
 
-To run:
 
-```bash
-bun run index.ts
-```
 
-This project was created using `bun init` in bun v1.2.19. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+> This project was created using `bun init` in bun v1.2.19. [Bun](https://bun.com) is a fast everything-in-one JavaScript runtime.
